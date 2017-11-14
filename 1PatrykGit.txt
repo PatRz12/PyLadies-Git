@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello mAn!
 Patryk
 
 Rzepka
+=======
+Hello mAn!
+>>>>>>> parent of 4557122... Zmiana1
